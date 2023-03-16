@@ -1,8 +1,10 @@
 #includes <stdio.h>
-
-int main(void) 
+/**
+ * main- Using puts to print out on the standard output
+ * Return: 0 (Success)
+ */
+int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n");
-
+	puts("\"Programming is like building a multilingual puzzle"\");
 	return (0);
 }
