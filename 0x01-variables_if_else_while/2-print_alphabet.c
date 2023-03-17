@@ -12,7 +12,7 @@ int main(void)
 	while (ch <= 122)
 	{
 		putchar(ch);
-		ch++
+		ch++;
 	}
 	putchar("\n");
 	return (0);
