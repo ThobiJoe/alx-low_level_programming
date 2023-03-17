@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ *main - Entry point
+ *Description: C code to check if a number is positive or negative
+ *Return: 0 always
+ */
 int main(void)
 {
 	int n;
