@@ -1,17 +1,18 @@
 #include "main.h"
 /**
- * main - Entry Point
+ * print alphabet - Entry Point
  * Description: Print a-z in lowercase
  * Return: 0 always
  */
-int main(void)
+void print_alphabet(void)
 {
-	int i = 97;
+	char i = 'a';
 
-	while (i <= 122)
+	while (i <= 'z')
 	{
 		_putchar(i);
 		i++;
 	}
+	_putchar('\n');
 	return (0);
 }
