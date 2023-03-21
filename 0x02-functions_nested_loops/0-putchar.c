@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - Print putchar
  * Description: Code that displays putchar on the
