@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
  * print_to_98 - Print natural numbers to 98
- * @i:Starting number
+ * @n:Starting number
  * Return: 0
  */
 void print_to_98(int n)
 {
-	if (n <=98)
+	if (n <= 98)
 	{
 		for (; n <= 98; n++)
 		{
