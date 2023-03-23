@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * positive_or_negative - Check if arg is pos or neg
+ * @i: Value to be checked
  * Return: 0
  */
 void positive_or_negative(int i)
