@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * print_line - Print line n times
+ * @n: Number of times it should be printed
  * Return: 0
  */
 void print_line(int n)
